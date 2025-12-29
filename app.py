@@ -24,7 +24,7 @@ from ui.layout import (
 # -----------------------------
 
 st.set_page_config(
-    page_title="Silent Partner – Creator Revenue Co-pilot",
+    page_title="sylentlyapp – Creator Revenue Co-pilot",
     page_icon="📊",
     layout="wide",
 )
